@@ -1,0 +1,17 @@
+
+EXCERCISE:3  find the link below for Djang-Rest-CRUD operations
+
+	
+	https://github.com/emmevasu/rest_api_curd.git
+	
+	
+EXCERSICE:1  find the link below for the Django-Ajax-CRUD Operations.
+
+	
+	https://github.com/emmevasu/django-curd.git
+	
+	
+EXCERSICES: find the links for all concepts remine
+
+	
+	https://github.com/emmevasu/django-curd.git
